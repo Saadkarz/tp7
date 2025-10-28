@@ -219,18 +219,20 @@ SELECT * FROM COMPTE;
 ## 📸 Screenshots
 
 ### 1. Application Results
-![Application Results](<img width="1900" height="1137" alt="Results" src="https://github.com/user-attachments/assets/07411fd5-4bc1-483c-a2c6-bcae17f6f9d1" />
-)
+<img width="1900" height="1137" alt="Results" src="https://github.com/user-attachments/assets/07411fd5-4bc1-483c-a2c6-bcae17f6f9d1" />
+
 *Application console output showing Spring Boot startup with Jersey REST API enabled and sample data initialization*
 
 ### 2. GET Request - JSON Format
-![GET Request JSON](<img width="1602" height="1000" alt="Get request Json" src="https://github.com/user-attachments/assets/efe18686-1082-4066-b388-3eff54caf909" />
-)
+
+<img width="1602" height="1000" alt="Get request Json" src="https://github.com/user-attachments/assets/efe18686-1082-4066-b388-3eff54caf909" />
+
 *Retrieve all bank accounts in JSON format using GET request to `/banque/comptes`*
 
 ### 3. GET Request - XML Format
-![GET Request XML](<img width="1589" height="1012" alt="Get request XML" src="https://github.com/user-attachments/assets/e4f449b5-42d4-403a-acae-42fb5773d6c9" />
-)
+
+<img width="1589" height="1012" alt="Get request XML" src="https://github.com/user-attachments/assets/e4f449b5-42d4-403a-acae-42fb5773d6c9" />
+
 *Retrieve all bank accounts in XML format with Content-Type: application/xml header*
 
 ## 🔧 Configuration
